@@ -2,10 +2,7 @@
 A website where user can buy food products from a specific hotel to which the website belongs to. <br/>
  College: K.J.Somaiya College of Engineering, Mumbai <br/>
  Class TY COMPS B
-### Contributors:
-- [Amey Gangan](https://github.com/amey-323)
-- [Kunal Maniyar](https://github.com/KunalManiyar)
-- [Jayadeep More](https://github.com/Jayadeep01)
+
 
 ### Simulation:
 https://user-images.githubusercontent.com/62855667/180479249-1f43a09c-39ea-42f6-9ee4-ae70a208a9ce.mp4
